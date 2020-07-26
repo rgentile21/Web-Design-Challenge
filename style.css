@@ -15,30 +15,30 @@ body {
     background: #d8c00e;
     position:relative;
   }
-  /* body .first_line{background: yellowgreen;
+  /* body .first_line{background: white;
     width: 100%;
     height: 100%;
-    background-color: yellowgreen;
+    background-color: white;
     position:relative;
     display:inline-block;
     left:50px;
   } */
 
-  #first_line_color{background: yellowgreen;
+  #first_line_color{background: white;
 
     width: 100%;
     height: 100%;
-    background-color: yellowgreen;
+    background-color:white;
     position:relative;
     display:inline-block;
     left:0px;
   }
 
-  body .row1{background: yellowgreen;
+  body .row1{background: white;
 
     width: 100%;
     height: 100%;
-    background-color: yellowgreen;
+    background-color: white;
     position:relative;
     display:inline-block;
     left:0px;
