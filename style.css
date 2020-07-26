@@ -79,7 +79,7 @@ body {
     margin-bottom: 0px;
     font-size: 48px;
     /* color: #eee; */
-    color:yellowgreen;
+    color:white;
     text-align: left;
   }
   
@@ -109,7 +109,7 @@ body {
     margin-left: 10px ;
     margin-right: 10px ;
     padding: 5px;
-    background:green;
+    background:white;
   }
 
   .container2 {
@@ -120,7 +120,7 @@ body {
     margin-left: 10px ;
     margin-right: 10px ;
     padding: 20px;
-    background: yellow;
+    background: white;
   }
   
   #main_figure{
@@ -145,7 +145,7 @@ body {
 .container>h2{position:relative;
     right:500px;
     top:0px;
-    color:yellow;
+    color:white;
     font-size:400
 }
 
