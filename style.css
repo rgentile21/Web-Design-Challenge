@@ -49,7 +49,7 @@ body {
     width: 170px;
     height: 60px;
     border: 1px solid blue;
-    background-color: rgb(46, 159, 163); 
+    background-color: rgb(255, 255, 255); 
     position:relative;
     display:inline-block;
     left:50px;
